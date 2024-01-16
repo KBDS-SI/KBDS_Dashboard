@@ -1,9 +1,0 @@
-# IntelliJ IDEA 디렉토리
-.idea/
-
-# Gradle 디렉토리
-.gradle/
-
-# 빌드된 파일들을 포함하는 디렉토리
-build/
-out/
